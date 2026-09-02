@@ -1,8 +1,8 @@
 # s0u7a.net
 
-Personal website — [s0u7a.net](https://s0u7a.net)
+Personal website built with [Astro](https://astro.build) + Tailwind CSS.
 
-Built with [Astro](https://astro.build) + Tailwind CSS, deployed on Cloudflare.
+> **Note:** `s0u7a.net` domain is currently expired and not yet renewed. The site can be run locally — see below.
 
 ## Stack
 
