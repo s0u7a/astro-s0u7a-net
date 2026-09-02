@@ -9,5 +9,5 @@ export default defineConfig({
 tailwind()
   ],
   base: "/",
-  site: "https://s0u7a.net/"
+  // site: "https://s0u7a.net/" // domain expired, re-enable after renewal
 });
