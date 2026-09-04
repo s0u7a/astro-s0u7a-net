@@ -1,7 +1,7 @@
 {
-	"name":				"s0u7a.net",
-	"short_name":		"Only s0u7a's website",
-	"description":		"s0u7aのサイトです。様々なツールやブログなどを公開しています。",
+	"name":				"souta-lab",
+	"short_name":		"Only souta-lab's website",
+	"description":		"souta-labのサイトです。様々なツールやブログなどを公開しています。",
 	"scope": "/",
 	"start_url":		"/",
 	"display":			"standalone",
@@ -59,11 +59,3 @@
 			"sizes": "384x384",
 			"type": "image/png"
 		},
-		{
-			"src": "/android-chrome-512x512.png",
-			"sizes": "512x512",
-			"type": "image/png",
-			"purpose": "any maskable"
-		}
-	]
-}
