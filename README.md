@@ -1,8 +1,6 @@
-# s0u7a.net
+# souta-lab
 
 Personal website built with [Astro](https://astro.build) + Tailwind CSS.
-
-> **Note:** `s0u7a.net` domain is currently expired and not yet renewed. The site can be run locally — see below.
 
 ## Stack
 
@@ -14,9 +12,9 @@ Personal website built with [Astro](https://astro.build) + Tailwind CSS.
 
 ```bash
 npm install
-npm run dev      # local dev
-npm run build    # production build
-npm run preview  # preview build
+npm run dev # local dev
+npm run build # production build
+npm run preview # preview build
 ```
 
 ## License
